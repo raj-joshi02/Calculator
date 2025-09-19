@@ -8,8 +8,3 @@ This is my first GitHub project, created to practice web development and GitHub 
 - Perform basic arithmetic operations: Addition, Subtraction, Multiplication, Division  
 - Clear button to reset calculations  
 - User-friendly and responsive design  
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/calculator.git
