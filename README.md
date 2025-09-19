@@ -7,4 +7,6 @@ This is my first GitHub project, created to practice web development and GitHub 
 ## ✨ Features
 - Perform basic arithmetic operations: Addition, Subtraction, Multiplication, Division  
 - Clear button to reset calculations  
-- User-friendly and responsive design  
+- User-friendly and responsive design
+- Author : Raj Joshi
+
